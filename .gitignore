@@ -2,3 +2,5 @@ Learning
 Learning2.txt
 Learning3.txt
 virtualenv
+
+git rm -r  --cached virtualenv/
